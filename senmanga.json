@@ -164,7 +164,7 @@
         ],
         "httpBody": null
       },
-      "separator": "",
+      "separator": "%20",
       "extra": {
         "commands": [
           {
