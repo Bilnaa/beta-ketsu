@@ -14,13 +14,6 @@
         }
     ],
     "images": [
-        {
-            "name": "Senmanga | JP",
-            "image": "https://i.postimg.cc/hvP5c4qS/logo-sen.png",
-            "info": "Read raw mangas on the beta module for Senmanga.",
-            "link": "ketsuapp://?moduleData=https://raw.githubusercontent.com/Bilnaa/beta-ketsu/main/senmanga.json",
-            "Zetsu_link":"zetsuapp://?moduleData=https://raw.githubusercontent.com/Bilnaa/beta-ketsu/main/senmanga.json"
-        }
     ],
     "text":[
     ]
