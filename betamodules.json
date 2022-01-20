@@ -5,12 +5,6 @@
             "image": "https://i.postimg.cc/pVFx8ZN2/lib-dessin.png",
             "info": "All the modules hosted by this website directly inside Ketsu.",
             "link": "ketsuapp://?moduleData=https://raw.githubusercontent.com/Bilnaa/bilnaa.github.io/main/Librairie/moduleTemplate.json"
-        },
-        {
-            "name": "Zoro.to | ENG",
-            "image": "https://i.postimg.cc/NFHcFM5g/zoro-logo.png",
-            "info": "Beta module test for Zoro.to",
-            "link": "ketsuapp://?moduleData=https://raw.githubusercontent.com/Bilnaa/beta-ketsu/main/zoro.json"
         }
     ],
     "images": [
