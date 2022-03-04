@@ -6,7 +6,7 @@
     "developer": "ナビル",
     "moduleID": "114653268923213246",
     "moduleImage": "https://i.postimg.cc/jSP7Srhr/zoro-gif.gif",
-    "moduleVersion": 1.4,
+    "moduleVersion": 1.41,
     "moduleLenguage": "ENG",
     "searchPlaceHolder": "If you want to search for a random anime, just type 'random'",
     "changelog": "Got rid of the token verification pop-up",
@@ -14,7 +14,7 @@
     "baseURL": "https://zoro.to/",
     "moduleDeveloperSite": "https://bilnaa.github.io/main/",
     "UpdateSite": "https://raw.githubusercontent.com/Bilnaa/beta-ketsu/main/zoro.json",
-    "preferedServer": "WATCHSB",
+    "preferedServer": "STREAMTA",
     "preferedDownloadServer": "STREAMTA",
     "blackListed": [
       ""
