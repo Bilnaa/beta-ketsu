@@ -6,14 +6,14 @@
     "developer": "ナビル",
     "moduleID": "114653268923213246",
     "moduleImage": "https://i.postimg.cc/jSP7Srhr/zoro-gif.gif",
-    "moduleVersion": 1.8,
+    "moduleVersion": 1.81,
     "moduleLenguage": "ENG",
     "searchPlaceHolder": "If you want to search for a random anime, just type 'random'",
     "moduleType": "Video",
     "baseURL": "https://zoro.to/",
     "moduleDeveloperSite": "https://bilnaa.github.io/main/",
     "UpdateSite": "https://raw.githubusercontent.com/Bilnaa/beta-ketsu/main/zoro.json",
-    "preferedServer": "STREAMTA",
+    "preferedServer": "WATCHSB",
     "preferedDownloadServer": "STREAMTA",
     "blackListed": [
       ""
