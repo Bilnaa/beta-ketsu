@@ -6,7 +6,7 @@
     "developer": "ナビル",
     "moduleID": "114653268923213246",
     "moduleImage": "https://i.postimg.cc/jSP7Srhr/zoro-gif.gif",
-    "moduleVersion": 1.81,
+    "moduleVersion": 1.82,
     "moduleLenguage": "ENG",
     "searchPlaceHolder": "If you want to search for a random anime, just type 'random'",
     "moduleType": "Video",
@@ -321,7 +321,7 @@
 ],
   "search": [{
     "request": {
-      "url": "https://zoro.to/search?&keyword=<searched>&page=<page>",
+      "url": "https://zoro.to/search?&keyword=<searched>",
       "method": "get",
       "headers": [{
         "key": "",
